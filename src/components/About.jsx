@@ -8,8 +8,8 @@ function About() {
           Sobre Nosotros
         </p>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor nihil
-          non inventoquod.
+          Una barberia inspirada por querer ayudar a sus clientes a potenciar su
+          aspecto mediante la magia de un buen corte de cabello.
         </p>
       </div>
       <div className="flex flex-col md:flex-row items-center justify-center gap-10">
